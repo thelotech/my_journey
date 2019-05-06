@@ -20,6 +20,8 @@ I'll be adding a bunch of links to resources that will help me along the way.
 * [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Sphinx/README.md)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [How to Build a Successful Cybersecurity Career](https://danielmiessler.com/blog/build-successful-infosec-career/)
+* [Zero to Hero, Practical Network Pentesting course](https://www.thecybermentor.com/zero-to-hero-pentesting)
+
 
 ## 3. Short-Term Goals
 There are a lot of things I feel like I want to accomplish, and here are a few things I'll be working toward in the short-term:
