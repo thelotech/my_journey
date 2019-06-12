@@ -28,9 +28,9 @@ I'll be adding a bunch of links to resources that will help me along the way.
 
 ## 3. Short-Term Goals
 There are a lot of things I feel like I want to accomplish, and here are a few things I'll be working toward in the short-term:
-* Setting up an at-home lab?
 * Figure out how to make my [blog](https://thelotech.github.io) easier to manage: How to make a blog easier to blog...
 * Learn Python and maybe JavaScript, then create applications/programs and show how I did it.
+* Understand SSH.
 
 ## 4. Success Stories
 As I accomplish the goals listed above, I'll throw down the links to my journey in showing how I did it!
